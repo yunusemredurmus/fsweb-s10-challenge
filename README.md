@@ -4,7 +4,7 @@ Bu projede hafta boyunca öğrendiğiniz, `redux` özellikleri, `redux thunk` mi
 
 **redux-thunk sayesinde bir API'ye request yapabilecek, localStorage sayesinde ise uygulamanıza eklediğiniz verileri kaybetmeden kullanabileceksiniz.**
 
-## Giriş
+## Giriş
 
 `Minnet günlüğü`, kişinin hayatındaki olumlu şeylere odaklanması,
 minnettarlık ve şükran duygusunu hissetmesi için sık sık
